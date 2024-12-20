@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [City Computer Science Society](https://www.css-city.com/) as the President  
   
 
-- 🌱 I’m currently learning Data Structures and Algorithms   
+- 🌱 I’m currently learning C++ and Data Structures  
   
 
-- 👨‍💻 I'm currently improving my skills in Java and React  
+- 👨‍💻 I'm currently improving my skills in Java and React framework
   
 
 - 🌐 I love travelling and exploring new ideas  

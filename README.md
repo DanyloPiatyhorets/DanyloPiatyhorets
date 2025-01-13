@@ -3,10 +3,10 @@
 ### <div align="center">Hi there 👋    I am Danylo</div>  
   
 
-*<div align="center">Computer Science Student at City, University of London</div>*  
+*<div align="center">Penultimate Year Computer Science Student at City, University of London</div>*  
   
 
-- 🔭 I’m currently working on [City Computer Science Society](https://www.css-city.com/) as the President  
+- 🔭 I’m currently involved in the [City Computer Science Society](https://www.css-city.com/) as the President  
   
 
 - 🌱 I’m currently learning C++ and Data Structures  

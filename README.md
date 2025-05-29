@@ -6,13 +6,13 @@
 *<div align="center">Penultimate Year Computer Science Student at City, University of London</div>*  
   
 
-- 🔭 I’m currently involved in the [City Computer Science Society](https://www.css-city.com/) as the President  
+- 🔭 I’m currently a Software Engineer Intern at [Trainline](https://www.thetrainline.com/)  
+
+
+- 🌱 I’m currently learning Go  
   
 
-- 🌱 I’m currently learning C++ and Data Structures  
-  
-
-- 👨‍💻 I'm currently improving my skills in Java and React framework
+- 👨‍💻 I'm currently working on [funalyser](https://github.com/DanyloPiatyhorets/funalyser): a modern CLI tool forfunctions analysis
   
 
 - 🌐 I love travelling and exploring new ideas  

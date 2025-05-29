@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Go  
   
 
-- 👨‍💻 I'm currently working on [funalyser](https://github.com/DanyloPiatyhorets/funalyser): a modern CLI tool forfunctions analysis
+- 👨‍💻 I'm currently working on [funalyser](https://github.com/DanyloPiatyhorets/funalyser): a modern CLI tool for functions analysis
   
 
 - 🌐 I love travelling and exploring new ideas  
